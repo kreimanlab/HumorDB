@@ -10,7 +10,8 @@ humor_db = load_dataset("kreimanlab/HumorDB")
 
 Each item in the dataset has the following keys: **image, range_ratings_mean, comparison_ratings, binary_ratings, words**.
 
-
+# Dataset.zip
+The dataset in zip format for training is available to download here: https://drive.google.com/file/d/1npPQ8APXZ6FfE7XFE8YLBnMjSH9RVmEc/view?usp=sharing
 ## Dataset Description
 ### Task Types
 
