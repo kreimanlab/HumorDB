@@ -1,0 +1,114 @@
+age,42
+gender,female
+nationality,american
+education,undergraduate
+F635.jpg,7,creative
+F636.jpg,10,photo pose
+F637.jpg,8,looks funny
+F638.jpg,8,cute scene
+F639.jpg,7,fear game
+F64.jpg,9,nice expression
+F640.jpg,1,bad one
+F641.jpg,3,not nice
+F642.jpg,4,nice photo
+F643.jpg,7,shock funny one
+F644.jpg,9,nice photo pose
+F645.jpg,1,bad behaviour
+F646.jpg,7,creative think
+F647.jpg,2,bad one
+F648.jpg,3,not nice
+F649.jpg,6,fear game
+F65.jpg,9,good image
+F650.jpg,9,funny boy
+F651.jpg,7,expressions
+F652.jpg,8,funny oldman
+F653.jpg,2,not funny
+F654.jpg,7,cute one
+F655.jpg,1,not nice
+F656.jpg,7,looks fight smile
+F657.jpg,6,fear one
+F658.jpg,8,creative think
+F659.jpg,6,nice one
+F66.jpg,8,cute image
+F660.jpg,9,funny girl
+F661.jpg,10,funny boy
+F662.jpg,5,creative
+F663.jpg,7,hungry man
+F664.jpg,4,mad man
+F665.jpg,1,bad one
+F666.jpg,3,not funny
+F667.jpg,6,cute photo
+F668.jpg,7,nice photo
+F669.jpg,3,sad for boy
+F67.jpg,7,cute photo
+F670.jpg,9,nice one
+F671.jpg,6,creative one
+F672.jpg,8,funny man
+F673.jpg,6,good photo
+F674.jpg,7,nice photo pose
+F675.jpg,8,nice photo pose
+F676.jpg,4,not nice
+F677.jpg,7,good face expression
+F678.jpg,8,good pose
+F679.jpg,8,dressing style
+F68.jpg,3,bad for woman
+F680.jpg,2,bad for cat
+F681.jpg,1,angry man
+F682.jpg,6,nice photo
+F683.jpg,6,creative one
+F684.jpg,2,bad one
+F685.jpg,7,nice photo
+F686.jpg,8,nice photo expression
+F687.jpg,6,good one
+F688.jpg,9,nice photo expreesion
+F689.jpg,9,funny horse
+F69.jpg,1,sad for child
+F690.jpg,4,face expression but pain one
+F691.jpg,2,bad behaviour
+F692.jpg,8,creative one
+F693.jpg,6,paying expression
+F694.jpg,5,bad one
+F695.jpg,8,good expression
+F696.jpg,2,bad behaviour
+F697.jpg,7,nice scene
+F698.jpg,6,playing expression
+F699.jpg,1,bad for boy
+F7.jpg,3,bad one
+F70.jpg,7,cute one
+F700.jpg,9,funny expression
+F701.jpg,8,creative one
+F702.jpg,3,bad behaviour
+F703.jpg,7,good action
+F704.jpg,1,bad one
+F705.jpg,8,nice creative
+F706.jpg,9,funny boys
+F708.jpg,9,funny boys
+F709.jpg,6,playing old man
+F71.jpg,8,cute one
+F710.jpg,9,nice photo
+F711.jpg,1,bad behaviour
+F712.jpg,2,bad action
+F713.jpg,7,creative one
+F714.jpg,8,creative one
+F715.jpg,5,bad for girl child
+F716.jpg,8,creative one
+F717.jpg,7,nice photo
+F718.jpg,2,bad one
+F719.jpg,9,funny animals
+F72.jpg,6,funny animal pose
+F720.jpg,1,badbehaviour
+F721.jpg,1,bad behaviour
+F722.jpg,10,funny pose backside
+F723.jpg,9,funny boy
+F724.jpg,9,funny backside pose
+F725.jpg,8,funny cat
+F663.jpg,9,funny man
+F678.jpg,6,nice photo
+F689.jpg,9,funny horse
+F694.jpg,3,not nice
+F651.jpg,8,funny expression
+F65.jpg,7,good image
+F708.jpg,8,funny boys
+F653.jpg,3,bad one
+F718.jpg,3,bad behaviour
+F685.jpg,8,funny pose

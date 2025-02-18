@@ -1,0 +1,114 @@
+age,35
+gender,male
+nationality,american
+education,postgraduate
+F635.jpg,10,Cool
+F636.jpg,9,Nice
+F637.jpg,10,Funny
+F638.jpg,9,laughter
+F639.jpg,9,Excited
+F64.jpg,9,Wow
+F640.jpg,9,Joy
+F641.jpg,9,laughter
+F642.jpg,8,laughter
+F643.jpg,9,Danger
+F644.jpg,8,Marry
+F645.jpg,9,amusing
+F646.jpg,10,amusing
+F647.jpg,10,amusing
+F648.jpg,10,Cool
+F649.jpg,10,Excited
+F65.jpg,10,amusing
+F650.jpg,8,Best
+F651.jpg,10,So Funny
+F652.jpg,10,So Funny
+F653.jpg,10,amusing
+F654.jpg,9,Nice
+F655.jpg,4,Angry
+F656.jpg,9,Excited
+F657.jpg,9,Danger
+F658.jpg,9,amusing
+F659.jpg,9,amusing
+F66.jpg,9,amusing
+F660.jpg,3,Normal
+F661.jpg,5,Cool
+F662.jpg,9,amusing
+F663.jpg,3,Cool
+F664.jpg,2,Normal
+F665.jpg,9,So Funny
+F666.jpg,10,amusing
+F667.jpg,10,amusing
+F668.jpg,2,Cool
+F669.jpg,9,amusing
+F67.jpg,9,Amazing
+F670.jpg,2,So Funny
+F671.jpg,6,Cool
+F672.jpg,10,amusing
+F673.jpg,10,So Funny
+F674.jpg,10,Amazing
+F675.jpg,10,Funny
+F676.jpg,8,Funny
+F677.jpg,9,Danger
+F678.jpg,9,Dance
+F679.jpg,9,Funny
+F68.jpg,3,amusing
+F680.jpg,10,So Funny
+F681.jpg,10,amusing
+F682.jpg,2,Awesome
+F683.jpg,3,Cool
+F684.jpg,10,amusing
+F685.jpg,9,amusing
+F686.jpg,9,So Funny
+F687.jpg,9,amusing
+F688.jpg,4,Cool
+F689.jpg,9,amusing
+F69.jpg,10,amusing
+F690.jpg,1,Sad
+F691.jpg,10,amusing
+F692.jpg,10,amusing
+F693.jpg,2,Not Funny
+F694.jpg,9,amusing
+F695.jpg,9,amusing
+F696.jpg,2,Danger
+F697.jpg,10,Interesting
+F698.jpg,10,amusing
+F699.jpg,4,Danger
+F7.jpg,9,So Funny
+F70.jpg,9,amusing
+F700.jpg,3,Awesome
+F701.jpg,1,Beautiful
+F702.jpg,10,amusing
+F703.jpg,10,amusing
+F704.jpg,10,amusing
+F705.jpg,7,amusing
+F706.jpg,9,amusing
+F708.jpg,10,amusing
+F709.jpg,2,Memoriable
+F71.jpg,7,Funny
+F710.jpg,9,amusing
+F711.jpg,10,amusing
+F712.jpg,6,Interesting
+F713.jpg,10,amusing
+F714.jpg,10,amusing
+F715.jpg,10,Amusing
+F716.jpg,10,Amusing
+F717.jpg,9,Amusing
+F718.jpg,10,amusing
+F719.jpg,9,Memorable
+F72.jpg,10,amusing
+F720.jpg,8,amusing
+F721.jpg,8,amusing
+F722.jpg,10,amusing
+F723.jpg,6,Cool
+F724.jpg,9,So Funny
+F725.jpg,10,amusing
+F721.jpg,5
+F678.jpg,8,Interesting
+F712.jpg,9,Interesting
+F710.jpg,9,amusing
+F647.jpg,10,amusing
+F705.jpg,9,amusing
+F651.jpg,9,Excited
+F654.jpg,9,amusing
+F658.jpg,9,So Funny
+F715.jpg,10,amusing

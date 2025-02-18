@@ -1,0 +1,114 @@
+age,23
+gender,female
+nationality,mexican
+education,undergraduate
+F363.jpg,7,chicken
+F364.jpg,4,kettle
+F365.jpg,4,baby
+F366.jpg,3,burial
+F367.jpg,5,awesome
+F368.jpg,6,creative
+F369.jpg,7,unsuspecting
+F37.jpg,4,uncomfortable
+F370.jpg,5,imaginative
+F371.jpg,7,daily
+F372.jpg,5,lovely
+F373.jpg,6,cute
+F374.jpg,6,comical
+F375.jpg,3,weird
+F376.jpg,7,meal
+F377.jpg,3,imitation
+F378.jpg,2,injury
+F379.jpg,7,little head
+F38.jpg,4,recreate
+F380.jpg,8,costume
+F381.jpg,8,slap
+F382.jpg,4,date
+F383.jpg,3,painful
+F384.jpg,3,interest
+F385.jpg,2,morbid
+F386.jpg,7,almost real
+F387.jpg,4,mimic
+F388.jpg,5,fight
+F389.jpg,5,ability
+F39.jpg,7,unexpected
+F390.jpg,5,curious
+F391.jpg,8,friendship
+F392.jpg,5,cute
+F393.jpg,4,imaginative
+F394.jpg,7,copy
+F395.jpg,6,expression
+F396.jpg,7,coordination
+F397.jpg,7,fear
+F398.jpg,4,mistake
+F399.jpg,7,friends
+F4.jpg,5,disgusting
+F40.jpg,6,taboo
+F400.jpg,6,precise
+F401.jpg,7,catch
+F402.jpg,8,in the moment
+F403.jpg,4,inappropriate
+F404.jpg,8,salp
+F405.jpg,3,conversation
+F406.jpg,6,princess
+F407.jpg,7,sorry
+F408.jpg,8,incredible
+F409.jpg,7,attractive
+F41.jpg,9,change
+F410.jpg,5,drop it
+F411.jpg,7,punch in the face
+F412.jpg,4,secret
+F413.jpg,5,new car
+F414.jpg,6,out of here
+F415.jpg,4,smoking
+F416.jpg,7,threatening
+F417.jpg,3,imitate
+F418.jpg,4,dance
+F419.jpg,3,calling
+F42.jpg,3,dangerous
+F420.jpg,3,hurting
+F421.jpg,4,waiting
+F422.jpg,4,painful
+F423.jpg,3,hurting
+F424.jpg,3,hurting
+F425.jpg,3,fight
+F426.jpg,3,toe
+F427.jpg,5,trip
+F428.jpg,7,ouch
+F429.jpg,4,memory
+F43.jpg,7,myself
+F430.jpg,4,oops
+F431.jpg,4,exchange
+F432.jpg,3,model
+F433.jpg,7,nag
+F434.jpg,8,slap
+F435.jpg,7,sorry!
+F436.jpg,6,mock
+F437.jpg,3,apologize
+F438.jpg,4,look!
+F439.jpg,3,kiss
+F44.jpg,7,expression
+F440.jpg,6,unexpected
+F441.jpg,4,stroke
+F442.jpg,4,powerful
+F443.jpg,4,karate
+F444.jpg,7,fall asleep
+F445.jpg,7,doctor strange
+F446.jpg,6,confidence
+F447.jpg,7,loneliness
+F448.jpg,8,bad third
+F449.jpg,5,steal
+F45.jpg,7,woody
+F450.jpg,7,my daily life
+F451.jpg,4,birthday
+F452.jpg,4,nasty
+F448.jpg,6,single
+F409.jpg,4,dramatic
+F380.jpg,8,costume
+F38.jpg,4,recreate
+F372.jpg,5,lovely
+F443.jpg,5,karate
+F41.jpg,8,change
+F427.jpg,5,trip
+F383.jpg,4,pain
+F379.jpg,3,head

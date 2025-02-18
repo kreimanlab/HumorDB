@@ -1,0 +1,114 @@
+age,31
+gender,male
+nationality,american
+education,undergraduate
+F545.jpg,8,statue
+F546.jpg,6,nose
+F547.jpg,5,helicopter
+F548.jpg,7,wing
+F549.jpg,6,money
+F55.jpg,7,washing machine
+F550.jpg,5,kick
+F551.jpg,5,statue
+F552.jpg,7,cigarette
+F553.jpg,8,police statue
+F554.jpg,8,doll
+F555.jpg,8,lady
+F556.jpg,8,man jean
+F557.jpg,3,eyes
+F558.jpg,7,people
+F559.jpg,6,statue
+F56.jpg,5,juice
+F560.jpg,5,statue
+F561.jpg,6,girl reaction
+F562.jpg,3,girl running
+F563.jpg,1,girl
+F564.jpg,8,baby
+F565.jpg,8,baby
+F566.jpg,5,ballon
+F567.jpg,7,reactions
+F568.jpg,7,reaction
+F569.jpg,3,hair
+F57.jpg,8,vomit
+F570.jpg,7,posture
+F571.jpg,5,jump
+F572.jpg,9,dress
+F573.jpg,7,pant & baby
+F574.jpg,6,baby
+F575.jpg,5,baby
+F576.jpg,6,the man
+F577.jpg,5,baby
+F578.jpg,6,baby finger
+F579.jpg,8,dog outfit
+F58.jpg,2,baby
+F580.jpg,4,man head
+F581.jpg,5,baby
+F582.jpg,2,pizza
+F583.jpg,5,baby & cycle
+F584.jpg,6,man expression
+F585.jpg,5,dog
+F586.jpg,3,baby
+F587.jpg,4,statue
+F588.jpg,5,statue
+F589.jpg,3,cat
+F59.jpg,3,the woman
+F590.jpg,9,cat
+F591.jpg,5,baby
+F592.jpg,8,the man
+F593.jpg,6,cigarette
+F594.jpg,1,woman
+F595.jpg,8,man
+F596.jpg,6,man
+F597.jpg,6,man & statue
+F598.jpg,3,man
+F599.jpg,3,man
+F6.jpg,4,girl
+F60.jpg,4,baby
+F600.jpg,6,car
+F601.jpg,5,man
+F602.jpg,5,girl
+F603.jpg,5,woman
+F604.jpg,3,car
+F605.jpg,3,car
+F606.jpg,4,car
+F607.jpg,4,truck
+F608.jpg,6,baby
+F609.jpg,6,man
+F61.jpg,7,camel
+F610.jpg,4,man
+F611.jpg,6,man
+F612.jpg,7,picture
+F613.jpg,6,art
+F614.jpg,6,makeup
+F615.jpg,6,baby
+F616.jpg,4,man
+F617.jpg,6,hair
+F618.jpg,2,woman
+F619.jpg,3,woman
+F62.jpg,5,camel
+F620.jpg,9,slippers
+F621.jpg,8,drawing
+F622.jpg,8,baby
+F623.jpg,3,boys
+F624.jpg,5,chicken
+F625.jpg,5,dog
+F626.jpg,6,falls
+F627.jpg,4,statue
+F628.jpg,5,window person
+F629.jpg,4,man
+F63.jpg,7,man
+F630.jpg,5,man
+F631.jpg,7,baby
+F632.jpg,5,dog picture
+F633.jpg,4,dog
+F634.jpg,3,man
+F586.jpg,4,baby
+F616.jpg,3,boat
+F630.jpg,3,man
+F57.jpg,8,vomit
+F571.jpg,6,jumping
+F610.jpg,4,man
+F633.jpg,6,dog
+F561.jpg,7,girl reaction
+F552.jpg,6,cigarette
+F557.jpg,3,eyes

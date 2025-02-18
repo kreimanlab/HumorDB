@@ -1,0 +1,114 @@
+age,24
+gender,female
+nationality,italian
+education,postgraduate
+F1.jpg,2,surprise
+F10.jpg,3,gold blanket
+F100.jpg,6,going to fall
+F1000.jpg,4,rude kid
+F1001.jpg,7,frightened for nothing
+F1002.jpg,2,andy smile
+F1003.jpg,6,going to fall
+F1004.jpg,5,cat failure
+F1005.jpg,7,seems to be eating it
+F1006.jpg,2,cute interaction
+F1007.jpg,4,horse bites cat
+F1008.jpg,8,mom is pissing on kid
+F1009.jpg,6,going to fall
+F101.jpg,8,dog is going to piss on woman
+F1010.jpg,1,gross
+F1011.jpg,7,guy in the background
+F1012.jpg,6,kid screaming
+F102.jpg,6,going to fall
+F103.jpg,4,everyone screams
+F104.jpg,6,going to get wet
+F105.jpg,6,going to fall
+F106.jpg,2,puking
+F107.jpg,5,kid being rude
+F108.jpg,7,going to fall
+F109.jpg,7,going to get wet
+F11.jpg,2,creepy
+F110.jpg,2,surprise?
+F111.jpg,6,going to get wet
+F112.jpg,7,going to fall
+F113.jpg,7,going to fall
+F114.jpg,4,goat surprises woman
+F115.jpg,2,broken
+F116.jpg,6,wet
+F117.jpg,6,fall
+F119.jpg,7,fall
+F12.jpg,2,similarity
+F120.jpg,6,wet
+F121.jpg,6,hurts
+F122.jpg,7,wet
+F123.jpg,7,wet
+F124.jpg,8,fall
+F125.jpg,2,hurt
+F126.jpg,7,fall
+F127.jpg,3,strange
+F128.jpg,2,hurts
+F129.jpg,7,hurts
+F13.jpg,4,creepy
+F130.jpg,2,rudeness
+F131.jpg,7,fall
+F132.jpg,7,expression
+F133.jpg,8,fall
+F134.jpg,8,fall
+F135.jpg,8,fall
+F136.jpg,4,hurts
+F137.jpg,3,hurts
+F138.jpg,3,wet
+F139.jpg,3,pain
+F14.jpg,6,jumpscare
+F140.jpg,8,fall
+F141.jpg,1,fight
+F142.jpg,7,fall
+F143.jpg,8,fall
+F144.jpg,7,fall
+F145.jpg,7,fall
+F146.jpg,4,fall
+F147.jpg,6,fall
+F148.jpg,2,fall
+F149.jpg,4,hurts
+F15.jpg,7,perspective
+F150.jpg,7,wet
+F151.jpg,6,fall
+F152.jpg,5,strangeness
+F153.jpg,7,fall
+F154.jpg,6,unusual
+F155.jpg,7,fall
+F156.jpg,7,fall
+F157.jpg,2,crash
+F158.jpg,3,wet
+F159.jpg,6,fall
+F16.jpg,4,unusual
+F161.jpg,7,fall
+F162.jpg,7,hurts
+F163.jpg,7,jumpscare
+F164.jpg,4,hurts
+F165.jpg,2,wet
+F166.jpg,4,fall
+F167.jpg,5,fall
+F168.jpg,3,fall
+F169.jpg,6,fall
+F17.jpg,2,cuteness
+F170.jpg,7,similarity
+F172.jpg,2,ass
+F173.jpg,8,similarity
+F174.jpg,6,contrast
+F175.jpg,8,similarity
+F176.jpg,8,similarity
+F177.jpg,2,similarity
+F178.jpg,2,rudeness
+F179.jpg,8,similarity
+F18.jpg,4,strange
+F178.jpg,2,rudeness
+F121.jpg,5,hurts
+F1004.jpg,5,hurts
+F144.jpg,6,fall
+F137.jpg,4,hurts
+F163.jpg,6,jumpscare
+F12.jpg,2,similarity
+F1001.jpg,7,frightened
+F1006.jpg,2,cuteness
+F139.jpg,2,pain

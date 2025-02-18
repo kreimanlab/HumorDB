@@ -1,0 +1,114 @@
+age,21
+gender,female
+nationality,nigerien
+education,undergraduate
+F545.jpg,4,trumpeter
+F546.jpg,9,glasses
+F547.jpg,9,small helicoptee
+F548.jpg,5,coat
+F549.jpg,7,combination
+F55.jpg,9,cooker
+F550.jpg,9,jump
+F551.jpg,9,statue
+F552.jpg,9,smoke
+F553.jpg,1,not at all
+F554.jpg,9,clown
+F555.jpg,9,egg head
+F556.jpg,9,very funny
+F557.jpg,9,small hands
+F558.jpg,9,plenty teeth
+F559.jpg,2,the man
+F56.jpg,9,the pour
+F560.jpg,9,farting
+F561.jpg,10,scream
+F562.jpg,9,the girl
+F563.jpg,9,fall
+F564.jpg,9,pee
+F565.jpg,6,the baby
+F566.jpg,8,girl
+F567.jpg,9,children
+F568.jpg,9,the guy
+F569.jpg,9,the jump
+F57.jpg,9,vomit
+F570.jpg,8,cheating
+F571.jpg,8,jump
+F572.jpg,1,box
+F573.jpg,9,trousers
+F574.jpg,9,sleeping
+F575.jpg,8,baby
+F576.jpg,9,butt
+F577.jpg,9,child
+F578.jpg,9,baby
+F579.jpg,8,trousers
+F58.jpg,8,man
+F580.jpg,7,head
+F581.jpg,8,baby
+F582.jpg,7,baby
+F583.jpg,8,girl covered in mud
+F584.jpg,8,man
+F585.jpg,10,dog
+F586.jpg,2,baby
+F587.jpg,7,statue
+F588.jpg,8,man
+F589.jpg,9,dog
+F59.jpg,9,woman with bowl
+F590.jpg,9,cat head
+F591.jpg,8,boy
+F592.jpg,9,man
+F593.jpg,9,statue
+F594.jpg,9,begging statue
+F595.jpg,8,funny guy
+F596.jpg,9,man
+F597.jpg,9,reading statue
+F598.jpg,8,showing statue a meme
+F599.jpg,9,strength
+F6.jpg,2,evil
+F60.jpg,9,crying girl
+F600.jpg,2,car
+F601.jpg,9,sitting on a car
+F602.jpg,9,swing
+F603.jpg,8,scooter
+F604.jpg,9,car on a step
+F605.jpg,9,car in bandages
+F606.jpg,2,car
+F607.jpg,9,sleeping trucks
+F608.jpg,1,child
+F609.jpg,5,tommy
+F61.jpg,9,camel
+F610.jpg,9,cuddle
+F611.jpg,9,trick
+F612.jpg,9,photo
+F613.jpg,8,toe
+F614.jpg,8,make over
+F615.jpg,3,baby
+F616.jpg,8,boat
+F617.jpg,3,tv
+F618.jpg,8,kiss
+F619.jpg,8,hair blindfold
+F62.jpg,8,animal
+F620.jpg,9,marking territory
+F621.jpg,9,drawing
+F622.jpg,1,baby
+F623.jpg,9,making out in public
+F624.jpg,9,chicken
+F625.jpg,8,baby
+F626.jpg,8,vomit
+F627.jpg,9,ridding a horse
+F628.jpg,4,guy in the room
+F629.jpg,9,person behind
+F63.jpg,9,riding a broom
+F630.jpg,9,blend
+F631.jpg,9,fall
+F632.jpg,9,animal behind the glass
+F633.jpg,9,dog
+F634.jpg,9,photo bomber
+F568.jpg,8
+F596.jpg,9,statue
+F592.jpg,9,the man
+F607.jpg,8,sleeping trucks
+F552.jpg,9,lighting a cigarette
+F597.jpg,7,reading statue
+F594.jpg,8,begging statues
+F619.jpg,9,hair blindfold
+F612.jpg,9,photo
+F610.jpg,8,cuddle

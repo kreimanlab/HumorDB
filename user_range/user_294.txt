@@ -1,0 +1,114 @@
+age,25
+gender,female
+nationality,american
+education,postgraduate
+F545.jpg,7,Good
+F546.jpg,6,Nice
+F547.jpg,7,Good
+F548.jpg,6,Different
+F549.jpg,8,Very Different
+F55.jpg,4,Normal
+F550.jpg,8,Nice
+F551.jpg,8,Good
+F552.jpg,9,Well
+F553.jpg,8,Nice
+F554.jpg,6,Normal
+F555.jpg,7,Super
+F556.jpg,7,Good
+F557.jpg,7,Well
+F558.jpg,7,Very Funny
+F559.jpg,8,Normal
+F56.jpg,6,Good
+F560.jpg,8,Well Done
+F561.jpg,8,Nice
+F562.jpg,7,Well
+F563.jpg,3,Normal
+F564.jpg,1,Not Funny
+F565.jpg,1,Not Funny
+F566.jpg,2,Ok
+F567.jpg,4,Ok
+F568.jpg,8,Good
+F569.jpg,8,Superb
+F57.jpg,6,Aaahh
+F570.jpg,7,Nice
+F571.jpg,2,Its not funny
+F572.jpg,5,Good
+F573.jpg,7,Superb
+F574.jpg,8,Nice Funny
+F575.jpg,7,Nice Funny
+F576.jpg,5,Ok Funny Images
+F577.jpg,6,Good
+F578.jpg,6,Nice
+F579.jpg,2,Not Ok
+F58.jpg,6,Well
+F580.jpg,6,Superb
+F581.jpg,7,Good
+F582.jpg,7,Haha
+F583.jpg,9,Superb
+F584.jpg,7,Funny
+F585.jpg,5,Ok
+F586.jpg,6,Okj
+F587.jpg,7,Super
+F588.jpg,8,Nice Funny Image
+F589.jpg,8,Super
+F59.jpg,4,OK
+F590.jpg,9,Nice Funny Image
+F591.jpg,9,Very Funny
+F592.jpg,7,Good
+F593.jpg,9,Funny
+F594.jpg,8,Nice Funny
+F595.jpg,5,ok
+F596.jpg,6,Good
+F597.jpg,7,Well
+F598.jpg,9,Nice Survey
+F599.jpg,8,Superb
+F6.jpg,7,Nice
+F60.jpg,6,Nice
+F600.jpg,1,Not Funny
+F601.jpg,7,Very funny
+F602.jpg,7,Nice
+F603.jpg,8,Very Funny
+F604.jpg,9,Very Funny
+F605.jpg,9,Very Funny
+F606.jpg,8,Superb
+F607.jpg,7,Not Ok
+F608.jpg,7,very Funny
+F609.jpg,8,Nice
+F61.jpg,8,Very Nice
+F610.jpg,8,Very Funny
+F611.jpg,9,Very Funny
+F612.jpg,9,Very Funny
+F613.jpg,6,Good
+F614.jpg,6,Very Nice
+F615.jpg,8,Very Funny
+F616.jpg,9,Very Funny
+F617.jpg,4,Ok
+F618.jpg,5,Ok
+F619.jpg,2,Ok
+F62.jpg,5,Well
+F620.jpg,9,Very Funny
+F621.jpg,7,Good
+F622.jpg,8,Very Funny
+F623.jpg,3,Its not Funny
+F624.jpg,5,Good
+F625.jpg,7,Very Funny
+F626.jpg,8,Very Funny
+F627.jpg,8,Very Funny
+F628.jpg,6,Nice
+F629.jpg,6,Very Funny
+F63.jpg,8,Very Funny
+F630.jpg,8,Very Funny
+F631.jpg,9,Very Funny
+F632.jpg,8,Very Funny
+F633.jpg,8,Very Funny
+F634.jpg,6,Well
+F589.jpg,6,Well
+F592.jpg,7,Very Funny
+F592.jpg,7,Very Funny
+F548.jpg,9,Very Funny
+F574.jpg,8,Very Funny
+F560.jpg,7,Very Funny
+F60.jpg,8,Very Funny
+F605.jpg,9,Very Funny
+F552.jpg,8,Very Funny
+F580.jpg,9,Very Funny

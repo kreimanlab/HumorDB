@@ -1,0 +1,114 @@
+age,25
+gender,male
+nationality,american
+education,postgraduate
+F816.jpg,6,6
+F817.jpg,6,nice
+F818.jpg,7,great
+F819.jpg,7,lol
+F82.jpg,8,Humor
+F820.jpg,8,nice one
+F821.jpg,9,good
+F822.jpg,8,funnu
+F823.jpg,7,good
+F824.jpg,8,funny
+F825.jpg,8,really horror
+F826.jpg,8,good
+F827.jpg,6,good
+F828.jpg,8,humor
+F829.jpg,7,great
+F83.jpg,7,so funny
+F830.jpg,8,Asuming
+F831.jpg,7,fuunny
+F832.jpg,7,exited
+F833.jpg,6,agrry
+F834.jpg,8,so far
+F835.jpg,9,laughttrt
+F836.jpg,9,good
+F837.jpg,6,humor
+F838.jpg,8,danger
+F839.jpg,4,asuming
+F84.jpg,7,asuming
+F840.jpg,9,very
+F841.jpg,7,asuming
+F842.jpg,6,so funny
+F843.jpg,7,very good
+F844.jpg,6,horror
+F845.jpg,7,good
+F846.jpg,6,danger
+F847.jpg,6,funny
+F848.jpg,8,funny
+F849.jpg,8,funny
+F85.jpg,8,so much funny
+F850.jpg,8,nice one
+F851.jpg,8,good
+F852.jpg,8,nice one
+F853.jpg,9,very good
+F854.jpg,9,nice one
+F855.jpg,7,very good
+F856.jpg,7,nice
+F857.jpg,7,nice one
+F858.jpg,7,easy
+F859.jpg,8,very nice
+F86.jpg,7,funny
+F860.jpg,8,funny
+F861.jpg,6,funny
+F862.jpg,8,nice one
+F863.jpg,8,very nice
+F864.jpg,7,funny
+F865.jpg,7,so funny
+F866.jpg,7,nice one
+F867.jpg,7,thrill
+F868.jpg,5,nice
+F869.jpg,8,funny
+F87.jpg,8,good
+F870.jpg,7,great
+F871.jpg,8,great one
+F872.jpg,5,good
+F873.jpg,8,great one
+F874.jpg,6,very nice
+F875.jpg,7,very good
+F876.jpg,8,great
+F877.jpg,8,very good
+F878.jpg,7,good
+F879.jpg,7,good
+F88.jpg,7,good
+F880.jpg,7,good
+F882.jpg,8,good
+F883.jpg,6,good
+F884.jpg,7,good
+F885.jpg,8,good
+F886.jpg,9,good
+F887.jpg,5,good
+F888.jpg,6,good
+F889.jpg,7,good
+F89.jpg,8,good
+F890.jpg,6,so funny
+F891.jpg,7,so funny
+F892.jpg,7,great
+F893.jpg,8,great
+F894.jpg,7,good
+F895.jpg,7,great
+F896.jpg,7,so funny
+F897.jpg,7,so funny
+F898.jpg,8,so funny
+F899.jpg,5,so funny
+F9.jpg,6,so funny
+F90.jpg,8,so funny
+F900.jpg,7,so funny
+F901.jpg,10,https://vedaantfunnyimageshost.s3.amazonaws.com/F900.jpg
+F902.jpg,9,https://vedaantfunnyimageshost.s3.amazonaws.com/F900.jpg
+F903.jpg,10,https://vedaantfunnyimageshost.s3.amazonaws.com/F900.jpg
+F904.jpg,8,https://vedaantfunnyimageshost.s3.amazonaws.com/F900.jpg
+F905.jpg,7,https://vedaantfunnyimageshost.s3.amazonaws.com/F900.jpg
+F906.jpg,7,so funny
+F826.jpg,8,so funny
+F870.jpg,7,so funny
+F816.jpg,6,so funny
+F850.jpg,5,so funny
+F831.jpg,8,so funny
+F866.jpg,9,very good
+F841.jpg,9,so funny
+F873.jpg,7,so funny
+F876.jpg,6,so funnyso funny
+F816.jpg,8,amusing

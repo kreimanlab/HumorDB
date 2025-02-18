@@ -1,0 +1,114 @@
+age,31
+gender,female
+nationality,armenian
+education,postgraduate
+F545.jpg,1,Not funny
+F546.jpg,7,funny
+F547.jpg,4,not funny
+F548.jpg,1,Not Funny
+F549.jpg,9, Funny
+F55.jpg,2,Not Funny
+F550.jpg,9, Funny
+F551.jpg,9, Funny
+F552.jpg,9, Funny
+F553.jpg,1,Not Funny
+F554.jpg,10,Very Funny
+F555.jpg,10,Very Funny
+F556.jpg,10,Very Funny
+F557.jpg,8,Very Funny
+F558.jpg,10,Very Funny
+F559.jpg,9,Very Funny
+F56.jpg,8,Very Funny
+F560.jpg,9,Very Funny
+F561.jpg,8,Very Funny
+F562.jpg,9,Very Funny
+F563.jpg,10,Very Funny
+F564.jpg,8,Very Funny
+F565.jpg,9,Very Funny
+F566.jpg,7,Very Funny
+F567.jpg,3,Not Funny
+F568.jpg,10,Very Funny
+F569.jpg,10,None
+F57.jpg,8,Very Funny
+F570.jpg,10,None
+F571.jpg,4,None
+F572.jpg,6,None
+F573.jpg,8,None
+F574.jpg,9,None
+F575.jpg,8,None
+F576.jpg,7,None
+F577.jpg,10,None
+F578.jpg,8,None
+F579.jpg,6,None
+F58.jpg,5,None
+F580.jpg,10,None
+F581.jpg,8,None
+F582.jpg,7,None
+F583.jpg,5,None
+F584.jpg,6,None
+F585.jpg,8,None
+F586.jpg,5,None
+F587.jpg,8,None
+F588.jpg,9,None
+F589.jpg,7,None
+F59.jpg,8,None
+F590.jpg,5,None
+F591.jpg,8,None
+F592.jpg,8,None
+F593.jpg,9,None
+F594.jpg,9,None
+F595.jpg,9,None
+F596.jpg,8,None
+F597.jpg,10,None
+F598.jpg,8,None
+F599.jpg,9,None
+F6.jpg,10,None
+F60.jpg,5,None
+F600.jpg,3,None
+F601.jpg,5,None
+F602.jpg,6,None
+F603.jpg,6,None
+F604.jpg,4,None
+F605.jpg,9,None
+F606.jpg,6,None
+F607.jpg,8,None
+F608.jpg,7,None
+F609.jpg,8,None
+F61.jpg,6,None
+F610.jpg,6,None
+F611.jpg,8,None
+F612.jpg,4,None
+F613.jpg,7,None
+F614.jpg,6,None
+F615.jpg,6,None
+F616.jpg,7,None
+F617.jpg,8,None
+F618.jpg,10,None
+F619.jpg,4,None
+F62.jpg,8,None
+F620.jpg,5,None
+F621.jpg,6,None
+F622.jpg,8,None
+F623.jpg,10,None
+F624.jpg,8,None
+F625.jpg,6,None
+F626.jpg,10,None
+F627.jpg,7,None
+F628.jpg,1,None
+F629.jpg,2,None
+F63.jpg,6,None
+F630.jpg,7,NoneNone
+F631.jpg,6,None
+F632.jpg,2,None
+F633.jpg,4,None
+F634.jpg,5,None
+F583.jpg,6,None
+F575.jpg,8,None
+F601.jpg,7,None
+F599.jpg,5,None
+F574.jpg,8,None
+F620.jpg,6,None
+F613.jpg,10,None
+F626.jpg,10,None
+F579.jpg,6,None
+F562.jpg,9,None

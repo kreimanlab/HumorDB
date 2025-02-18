@@ -1,0 +1,114 @@
+age,28
+gender,male
+nationality,portuguese
+education,undergraduate
+F889.jpg,3,tongue
+FM819.jpg,2,cat
+FM298.jpg,2,guy laughing
+FM120.jpg,1,motorcycle
+F999.jpg,5,grumpy faced child giving the middle finger
+FM763.jpg,1,red hair
+F963.jpg,8,giraffe covers man's head
+FM377.jpg,1,guy putting hand in woman's waist
+F984.jpg,5,flying slipper
+FM589.jpg,3,statue
+FM429.jpg,1,hulk statue
+FM249.jpg,1,clothes
+FM183.jpg,2,women in background
+FM777.jpg,5,dog seems to be taking a selfie
+FM741.jpg,6,sheep in background
+FM178.jpg,1,shadow in the water
+FM439.jpg,5,statues seem to be reading
+F929.jpg,9,white husky thinks he's one of the white chess pieces
+FM36.jpg,1,fire
+FM926.jpg,1,unclear element next to old woman
+FM521.jpg,5,funny expression
+FM635.jpg,1,group of friends talking
+FM559.jpg,1,hand gestures
+FM189.jpg,3,first kid's expression
+FM801.jpg,6,dinossaur's teeth
+FM185.jpg,8,the couple's face
+FM722.jpg,3,plastic in the kitchen
+FM374.jpg,2,girl's face
+FM347.jpg,6,weird element in the bride's waist
+FM690.jpg,1,fur
+FM876.jpg,1,weird bluriness
+FM62.jpg,8,fat man on a small motorcycle
+FM52.jpg,9,super hero costume doesn't fit right
+FM977.jpg,4,weird mickey
+FM21.jpg,4,heart gesture with hands
+FM794.jpg,5,funny drawing
+FM897.jpg,1,bluriness
+FM853.jpg,1,sad kitten
+F843.jpg,7,dog holding a bag
+FM732.jpg,1,man missing a hand
+F958.jpg,9,pikachu costume
+FM369.jpg,1,man skating
+FM530.jpg,1,woman reading
+FM97.jpg,1,exclamation points
+FM597.jpg,4,baby with funny expression
+F847.jpg,7,bird's face matches man's silhouette
+FM749.jpg,4,child's expression
+FM816.jpg,3,flamingo decoration seems real
+FM308.jpg,1,old stairs
+FM953.jpg,5,plant covers almost everyone
+FM720.jpg,4,naked manequin missing an arm
+FM605.jpg,3,dogs butts
+FM985.jpg,2,witch costume
+FM972.jpg,6,man's expression
+FM817.jpg,1,dirty bowl
+FM306.jpg,3,kid stressing
+FM496.jpg,4,deer statue
+FM360.jpg,3,girls
+FM620.jpg,4,finger
+FM187.jpg,2,water
+F876.jpg,10,cat
+FM291.jpg,2,cup
+FM591.jpg,1,mermaid
+F916.jpg,10,seal
+FM942.jpg,9,bride
+F954.jpg,9,man laid down
+FM717.jpg,7,soldier expressions
+FM812.jpg,4,drawing
+FM649.jpg,1,man
+FM626.jpg,1,statue
+FM327.jpg,5,boy
+FM724.jpg,9,toilets
+FM444.jpg,8,statue
+FM110.jpg,1,sheet
+FM945.jpg,7,man
+FM665.jpg,7,women
+FM661.jpg,5,couples
+FM908.jpg,4,horse
+F997.jpg,6,clown
+FM233.jpg,1,floor
+FM358.jpg,1,soil
+FM899.jpg,2,bride
+FM83.jpg,1,snow
+FM432.jpg,3,man
+FM856.jpg,1,sand
+FM311.jpg,1,middle finger
+FM426.jpg,7,eagle
+F854.jpg,9,dog
+F979.jpg,10,dog
+FM842.jpg,7,legs
+FM555.jpg,2,statue
+FM640.jpg,8,girl
+FM904.jpg,2,dog
+FM561.jpg,1,man
+FM252.jpg,1,man
+FM301.jpg,1,man
+F89.jpg,5,boy
+F868.jpg,7,giraffe's body
+FM934.jpg,1,man
+F949.jpg,1,bride
+FM724.jpg,7,toilet
+FM856.jpg,1,sand
+FM591.jpg,1,mermaid
+FM530.jpg,1,woman
+FM741.jpg,8,sheep
+FM496.jpg,5,deer
+FM559.jpg,2,gesture
+FM432.jpg,5,smile
+F929.jpg,8,dog
+FM908.jpg,1,horse
